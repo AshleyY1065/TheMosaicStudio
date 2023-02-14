@@ -1,4 +1,4 @@
-# Starter-KitV3
+# The Mosaic Studio - Created from template: Starter-KitV3
 This is the latest version of my starter kit that I will be using from now on to build all my websites. It has a completely remade responsive navigation that is much simpler, and easier to edit and customize.  
 
 
