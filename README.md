@@ -144,8 +144,6 @@ Here's an example showing this in action.  This is a demo link of the current St
 https://body-vw-example.netlify.app/
 
 Inspect the page, and set the the viewport at the top to "Dimensions: Responsive" and pull the edge of the screen out to grow the website's width.  At 2000px is where I set the body to font-size: 1vw; and every pixel you make the screen wider by after that you'll notice that every single element on the page is growing at the same scale relative to each other.  The ENTIRE site is now responding to the width of the screen and growing to fit it.  This creates a uniform website experience for everyone, no matter how big their screen is.  This site will look the same viewed on a laptop and a 50in tv without hvaing to write any extra code or using the zoom property, which isn't supported by Firefox.
-
-  
   
 
   
